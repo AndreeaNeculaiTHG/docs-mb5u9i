@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-jkc22v.salamcuanwin.xyz/sitemap.xml
